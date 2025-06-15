@@ -1,0 +1,796 @@
+Person
+Bicycle
+Car
+Motorcycle
+Airplane
+Bus
+Train
+Truck
+Boat
+Traffic light
+Fire hydrant
+Stop sign
+Parking meter
+Bench
+Bird
+Cat
+Dog
+Horse
+Sheep
+Cow
+Elephant
+Bear
+Zebra
+Giraffe
+Backpack
+Umbrella
+Handbag
+Tie
+Suitcase
+Frisbee
+Skis
+Snowboard
+Sports ball
+Kite
+Baseball bat
+Baseball glove
+Skateboard
+Surfboard
+Tennis racket
+Bottle
+Wine glass
+Cup
+Fork
+Knife
+Spoon
+Bowl
+Banana
+Apple
+Sandwich
+Orange
+Broccoli
+Carrot
+Hot dog
+Pizza
+Donut
+Cake
+Chair
+Couch
+Potted plant
+Bed
+Dining table
+Toilet
+TV
+Laptop
+Mouse
+Remote control
+Keyboard
+Cell phone
+Microwave oven
+Oven
+Toaster
+Sink
+Refrigerator
+Book
+Clock
+Vase
+Scissors
+Teddy bear
+Hair drier
+Toothbrush
+Plastic bag
+Headphones
+Coffee cup
+Table
+Lamp
+Flower
+Tree
+Plant
+Desk
+Door
+Window
+Pillow
+Cabinet
+Shelf
+Stool
+Sofa
+Bed frame
+Wardrobe
+Curtain
+Mirror
+Drawer
+Toilet paper
+Bathtub
+Shower
+Towel
+Washing machine
+Dishwasher
+Cooker
+Frying pan
+Kettle
+Bowl (container)
+Plate (dishware)
+Spoon (cutlery)
+Fork (cutlery)
+Knife (cutlery)
+Bottle (container)
+Wine glass (drinking glass)
+Cup (drinking vessel)
+Banana (fruit)
+Apple (fruit)
+Orange (fruit)
+Broccoli (vegetable)
+Carrot (vegetable)
+Pizza (food)
+Donut (food)
+Cake (food)
+Chair (furniture)
+Couch (furniture)
+Potted plant (flowerpot)
+Bed (furniture)
+Dining table (furniture)
+Toilet (plumbing fixture)
+TV (electronic device)
+Laptop (electronic device)
+Mouse (computer peripheral)
+Remote control (electronic device)
+Keyboard (computer peripheral)
+Cell phone (electronic device)
+Microwave oven (appliance)
+Oven (appliance)
+Toaster (appliance)
+Sink (plumbing fixture)
+Refrigerator (appliance)
+Book (publication)
+Clock (timepiece)
+Vase (container)
+Scissors (tool)
+Teddy bear (toy)
+Hair drier (appliance)
+Toothbrush (hygiene tool)
+Plastic bag (container)
+Headphones (audio device)
+Coffee cup (drinking vessel)
+Table (furniture)
+Lamp (lighting fixture)
+Flower (plant)
+Tree (plant)
+Plant (organism)
+Desk (furniture)
+Door (architectural element)
+Window (architectural element)
+Pillow (bedding)
+Cabinet (furniture)
+Shelf (furniture)
+Stool (furniture)
+Sofa (furniture)
+Bed frame (furniture)
+Wardrobe (furniture)
+Curtain (textile)
+Mirror (optical device)
+Drawer (furniture)
+Toilet paper (hygiene product)
+Bathtub (plumbing fixture)
+Shower (plumbing fixture)
+Towel (textile)
+Washing machine (appliance)
+Dishwasher (appliance)
+Cooker (appliance)
+Frying pan (cookware)
+Kettle (kitchenware)
+Teapot
+Beer
+Popcorn
+Hot plate
+Watermelon
+Strawberry
+Grapefruit
+Pineapple
+Lemon
+Blueberry
+Peach
+Plum
+Mango
+Pear
+Grape
+Bell pepper
+Cucumber
+Pumpkin
+Mushroom
+Onion
+Garlic
+Corn
+Lettuce
+Spinach
+Potato
+Sweet potato
+Eggplant
+Zucchini
+Artichoke
+Asparagus
+Broccoli (vegetable)
+Cabbage
+Cauliflower
+Celery
+Chilli pepper
+Ginger
+Leek
+Okra
+Peas
+Radish
+Tomato
+Watercress
+Cantaloupe
+Honeydew melon
+Apricot
+Cherry
+Coconut
+Date
+Fig
+Kiwi
+Lime
+Nectarine
+Olive
+Passion fruit
+Pomegranate
+Raspberry
+Star fruit
+Tangelo
+Walnut
+Almond
+Cashew
+Pecan
+Pistachio
+Hazelnut
+Chestnut
+Peanut
+Acorn
+Bread
+Croissant
+Bagel
+Muffin
+Doughnut
+Cookie
+Pancake
+Waffle
+French toast
+Bacon
+Sausage
+Ham
+Beef
+Chicken
+Pork
+Fish
+Shrimp
+Crab
+Lobster
+Oyster
+Clam
+Mussel
+Squid
+Octopus
+Sushi
+Pizza slice
+Hamburger
+Hot dog (food)
+Taco
+Burrito
+Noodle
+Rice
+Pasta
+Soup
+Salad
+Egg
+Cheese
+Butter
+Milk
+Yogurt
+Ice cream
+Chocolate
+Candy
+Gum
+Jelly
+Jam
+Honey
+Syrup
+Salt
+Pepper
+Sugar
+Flour
+Oil
+Vinegar
+Mustard
+Ketchup
+Mayonnaise
+Soy sauce
+Barbecue sauce
+Hot sauce
+Salsa
+Guacamole
+Hummus
+Peanut butter
+Jelly (spread)
+Jam (spread)
+Honey (natural product)
+Syrup (sweetener)
+Salt (seasoning)
+Pepper (seasoning)
+Sugar (sweetener)
+Flour (baking ingredient)
+Oil (cooking ingredient)
+Vinegar (condiment)
+Mustard (condiment)
+Ketchup (condiment)
+Mayonnaise (condiment)
+Soy sauce (condiment)
+Barbecue sauce (condiment)
+Hot sauce (condiment)
+Salsa (condiment)
+Guacamole (dip)
+Hummus (dip)
+Peanut butter (spread)
+Bread (baked good)
+Bagel (baked good)
+Muffin (baked good)
+Doughnut (baked good)
+Cookie (baked good)
+Pancake (baked good)
+Waffle (baked good)
+French toast (baked good)
+Bacon (meat product)
+Sausage (meat product)
+Ham (meat product)
+Beef (meat)
+Chicken (meat)
+Pork (meat)
+Fish (food)
+Shrimp (seafood)
+Crab (seafood)
+Lobster (seafood)
+Oyster (seafood)
+Clam (seafood)
+Mussel (seafood)
+Squid (seafood)
+Octopus (seafood)
+Sushi (food)
+Pizza slice (food)
+Hamburger (food)
+Hot dog (food)
+Taco (food)
+Burrito (food)
+Noodle (food)
+Rice (food)
+Pasta (food)
+Soup (food)
+Salad (food)
+Egg (food)
+Cheese (dairy product)
+Butter (dairy product)
+Milk (dairy product)
+Yogurt (dairy product)
+Ice cream (dairy product)
+Chocolate (confectionery)
+Candy (confectionery)
+Gum (confectionery)
+Tableware
+Cutlery
+Dishware
+Glassware
+Kitchen appliance
+Cooking utensil
+Baking utensil
+Storage container
+Cleaning product
+Personal care product
+Sporting goods
+Musical instrument
+Toy
+Art
+Craft
+Office supply
+Tool
+Hardware
+Electronic device
+Clothing
+Footwear
+Accessory
+Jewelry
+Bag
+Wallet
+Watch
+Clock (device)
+Lighting fixture
+Furniture
+Bedding
+Curtain (window covering)
+Carpet
+Rug
+Wall art
+Picture frame
+Vase (container for flowers)
+Mirror (reflective surface)
+Potted plant (indoor plant)
+Flower (blooming plant)
+Tree (plant structure)
+Plant (living organism)
+Outdoor structure
+Building
+Vehicle
+Boat (watercraft)
+Aircraft
+Train (transport)
+Bicycle (vehicle)
+Motorcycle (vehicle)
+Traffic light (signal)
+Fire hydrant (firefighting equipment)
+Stop sign (road sign)
+Parking meter (meter)
+Bench (seat)
+Sofa (seat)
+Armchair
+Cushion
+Pillow (headrest)
+Blanket
+Sheet
+Quilt
+Duvet
+Towel (absorbent textile)
+Bathmat
+Shower curtain
+Toilet (commode)
+Bathtub (bath fixture)
+Sink (basin)
+Washing machine (laundry machine)
+Dryer (laundry machine)
+Dishwasher (kitchen appliance)
+Refrigerator (kitchen appliance)
+Microwave oven (kitchen appliance)
+Oven (kitchen appliance)
+Toaster (kitchen appliance)
+Coffee maker (kitchen appliance)
+Blender (kitchen appliance)
+Food processor (kitchen appliance)
+Electric kettle (kitchen appliance)
+Frying pan (cooking pan)
+Pot (cooking vessel)
+Spatula (kitchen utensil)
+Ladle (kitchen utensil)
+Whisk (kitchen utensil)
+Grater (kitchen utensil)
+Colander (kitchen utensil)
+Cutting board (kitchen utensil)
+Knife (kitchen utensil)
+Scissors (tool)
+Screwdriver (tool)
+Hammer (tool)
+Wrench (tool)
+Pliers (tool)
+Tape measure (tool)
+Level (tool)
+Drill (power tool)
+Saw (tool)
+Ladder (tool)
+Bucket (container)
+Broom (cleaning tool)
+Dustpan (cleaning tool)
+Vacuum cleaner (cleaning appliance)
+Mop (cleaning tool)
+Sponge (cleaning tool)
+Brush (cleaning tool)
+Soap (cleaning product)
+Shampoo (personal care product)
+Toothpaste (personal care product)
+Lotion (personal care product)
+Perfume (personal care product)
+Hair spray (personal care product)
+Deodorant (personal care product)
+Sunscreen (personal care product)
+Makeup (cosmetics)
+Lipstick (coscosmetics)
+Mascara (cosmetics)
+Eyeglasses (eyewear)
+Sunglasses (eyewear)
+Watch (timepiece)
+Bracelet (jewelry)
+Necklace (jewelry)
+Earring (jewelry)
+Ring (jewelry)
+Hat (headwear)
+Cap (headwear)
+Glove (handwear)
+Scarf (neckwear)
+Belt (garment accessory)
+Backpack (bag)
+Handbag (bag)
+Briefcase (bag)
+Wallet (personal accessory)
+Key (personal accessory)
+Coin (currency)
+Credit card (payment card)
+Laptop (portable computer)
+Tablet computer (portable computer)
+Desktop computer (computer)
+Monitor (computer peripheral)
+Printer (computer peripheral)
+Speaker (audio device)
+Microphone (audio device)
+Camera (imaging device)
+Video camera (imaging device)
+Headphones (personal audio device)
+Game controller (input device)
+Joystick (input device)
+Mouse (computer input device)
+Keyboard (computer input device)
+Remote control (control device)
+Batteries (power source)
+Charger (power accessory)
+Power strip (power accessory)
+Extension cord (power accessory)
+Light bulb (lighting component)
+Candle (lighting device)
+Fireplace (heating appliance)
+Radiator (heating appliance)
+Air conditioner (cooling appliance)
+Fan (cooling appliance)
+Heater (heating appliance)
+Thermostat (climate control)
+Bookcase (furniture)
+Bookshelf (furniture)
+Filing cabinet (furniture)
+Coffee table (furniture)
+End table (furniture)
+Nightstand (furniture)
+Dresser (furniture)
+Wardrobe (furniture)
+Armoire (furniture)
+Chair (seating)
+Bar stool (seating)
+Recliner (seating)
+Loveseat (seating)
+Ottoman (seating)
+Chaise lounge (seating)
+Desk chair (seating)
+Office chair (seating)
+Gaming chair (seating)
+High chair (seating)
+Rocking chair (seating)
+Wheelchair (medical device)
+Crib (baby furniture)
+Playpen (baby furniture)
+Changing table (baby furniture)
+Stroller (baby transport)
+Baby carrier (baby transport)
+Diaper bag (baby bag)
+Pacifier (baby accessory)
+Baby bottle (baby accessory)
+Teether (baby accessory)
+Rattle (baby toy)
+Toy car (toy vehicle)
+Toy truck (toy vehicle)
+Toy train (toy vehicle)
+Doll (toy)
+Action figure (toy)
+Stuffed animal (toy)
+Building blocks (toy)
+Puzzle (toy)
+Board game (toy)
+Playing cards (toy)
+Ball (sports equipment)
+Baseball (sports equipment)
+Basketball (sports equipment)
+Football (sports equipment)
+Soccer ball (sports equipment)
+Volleyball (sports equipment)
+Tennis ball (sports equipment)
+Golf ball (sports equipment)
+Bowling ball (sports equipment)
+Billiard ball (sports equipment)
+Shuttlecock (badminton equipment)
+Badminton racket (sports equipment)
+Squash racket (sports equipment)
+Table tennis racket (sports equipment)
+Hockey stick (sports equipment)
+Golf club (sports equipment)
+Ski (winter sports equipment)
+Snowboard (winter sports equipment)
+Skateboard (recreation equipment)
+Surfboard (water sports equipment)
+Scooter (personal transporter)
+Bicycle helmet (protective gear)
+Motorcycle helmet (protective gear)
+Ski helmet (protective gear)
+Snowboard helmet (protective gear)
+Goggles (protective eyewear)
+Gloves (protective handwear)
+Knee pad (protective gear)
+Elbow pad (protective gear)
+Shin guard (protective gear)
+Life jacket (safety equipment)
+Fire extinguisher (safety equipment)
+Smoke detector (safety equipment)
+Carbon monoxide detector (safety equipment)
+First aid kit (medical equipment)
+Bandage (medical supply)
+Pill (medication)
+Syringe (medical instrument)
+Thermometer (medical instrument)
+Stethoscope (medical instrument)
+Crutches (medical aid)
+Cane (walking aid)
+Walker (walking aid)
+Wheelchair (mobility aid)
+Hospital bed (medical furniture)
+Medical gown (medical clothing)
+Surgical mask (protective mask)
+Gloves (medical handwear)
+Syringe (medical device)
+Scalpel (surgical instrument)
+Forceps (surgical instrument)
+Retractor (surgical instrument)
+Scissors (surgical instrument)
+Needle (medical supply)
+Suture (medical supply)
+Cotton swab (medical supply)
+Alcohol swab (medical supply)
+Antiseptic (medical solution)
+Bandage (medical dressing)
+Gauze (medical dressing)
+Adhesive tape (medical supply)
+Surgical drape (medical textile)
+Surgical cap (medical headwear)
+Surgical gown (medical clothing)
+Face shield (protective gear)
+Safety glasses (protective eyewear)
+Earmuffs (hearing protection)
+Earplugs (hearing protection)
+Respirator (breathing protection)
+Dust mask (breathing protection)
+Work gloves (protective handwear)
+Safety boots (protective footwear)
+Hard hat (protective headwear)
+Reflective vest (protective clothing)
+Traffic cone (road safety device)
+Road barrier (road safety device)
+Warning sign (road sign)
+Stop sign (traffic sign)
+Yield sign (traffic sign)
+No parking sign (traffic sign)
+No U-turn sign (traffic sign)
+One way sign (traffic sign)
+Speed limit sign (traffic sign)
+Pedestrian crossing sign (traffic sign)
+School crossing sign (traffic sign)
+Traffic light (road signal)
+Railroad crossing sign (road sign)
+Crosswalk (road marking)
+Pavement marking (road marking)
+Road divider (road element)
+Guardrail (road element)
+Street light (lighting fixture)
+Utility pole (utility structure)
+Power line (utility infrastructure)
+Telephone pole (utility structure)
+Antenna (communication device)
+Satellite dish (communication device)
+Cell tower (communication structure)
+Radio tower (communication structure)
+Wind turbine (power generation)
+Solar panel (power generation)
+Water tower (water infrastructure)
+Silo (agricultural structure)
+Barn (agricultural building)
+Tractor (agricultural vehicle)
+Plow (agricultural implement)
+Harvester (agricultural machine)
+Combine (agricultural machine)
+Sprayer (agricultural equipment)
+Fertilizer spreader (agricultural equipment)
+Seeder (agricultural equipment)
+Cultivator (agricultural equipment)
+Farm animal (livestock)
+Cow (livestock)
+Pig (livestock)
+Sheep (livestock)
+Goat (livestock)
+Chicken (poultry)
+Duck (poultry)
+Goose (poultry)
+Turkey (poultry)
+Horse (livestock)
+Donkey (livestock)
+Mule (livestock)
+Camel (livestock)
+Llama (livestock)
+Alpaca (livestock)
+Dog (pet)
+Cat (pet)
+Rabbit (pet)
+Guinea pig (pet)
+Hamster (pet)
+Gerbil (pet)
+Mouse (pet)
+Rat (pet)
+Ferret (pet)
+Fish (pet)
+Bird (pet)
+Snake (pet)
+Lizard (pet)
+Turtle (pet)
+Frog (pet)
+Tadpole (pet)
+Snail (invertebrate)
+Spider (arachnid)
+Ant (insect)
+Bee (insect)
+Fly (insect)
+Mosquito (insect)
+Cockroach (insect)
+Cricket (insect)
+Grasshopper (insect)
+Beetle (insect)
+Butterfly (insect)
+Moth (insect)
+Dragonfly (insect)
+Ladybug (insect)
+Worm (invertebrate)
+Slug (invertebrate)
+Centipede (myriapod)
+Millipede (myriapod)
+Scorpion (arachnid)
+Crab (crustacean)
+Lobster (crustacean)
+Shrimp (crustacean)
+Octopus (cephalopod)
+Squid (cephalopod)
+Jellyfish (cnidarian)
+Starfish (echinoderm)
+Sea urchin (echinoderm)
+Seahorse (fish)
+Dolphin (marine mammal)
+Whale (marine mammal)
+Shark (fish)
+Penguin (bird)
+Polar bear (mammal)
+Seal (marine mammal)
+Walrus (marine mammal)
+Otter (mammal)
+Lion (mammal)
+Tiger (mammal)
+Leopard (mammal)
+Jaguar (mammal)
+Cheetah (mammal)
+Puma (mammal)
+Wolf (mammal)
+Fox (mammal)
+Coyote (mammal)
+Deer (mammal)
+Moose (mammal)
+Elk (mammal)
+Bear (mammal)
+Raccoon (mammal)
+Panda (mammal)
+Koala (mammal)
+Kangaroo (mammal)
+Zebra (mammal)
+Giraffe (mammal)
+Rhinoceros (mammal)
+Hippopotamus (mammal)
+Elephant (mammal)
+Ape (primate)
+Monkey (primate)
+Lemur (primate)
+Bat (mammal)
+Squirrel (mammal)
+Chipmunk (mammal)
+Hedgehog (mammal)
+Skunk (mammal)
+Opossum (mammal)
+Armadillo (mammal)
+Sloth (mammal)
+Anteater (mammal)
+Pangolin (mammal)
+Chimpanzee (primate)
+Gorilla (primate)
+Orangutan (primate)
+Baboon (primate)
+Human face
